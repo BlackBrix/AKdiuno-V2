@@ -1,6 +1,6 @@
 # aKduino v2  
   
-Arduino (stm32duino) controlled Dual Mono AK4490 DAC by Dimdim (http://www.dimdim.gr)  
+Arduino (stm32duino) controlled Dual Mono AK4490 DAC (w/ I²S-Input) by Dimdim (http://www.dimdim.gr)  
 (Controlling a Dual Mono AK4490 DAC with an Si570 as a clock generator and an "Amanero" (USBtoI2S) as an I2S source.)  
   
 DAC: http://www.dimdim.gr/2017/11/arduino-controlled-dual-mono-ak4490-dac-part-1/  
